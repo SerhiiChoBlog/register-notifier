@@ -1,1 +1,1 @@
-Moved to [https://github.com/SerhiiChoBlog/register-notifier](https://github.com/SerhiiChoBlog/register-notifier)
+Source code related to the [article](https://serhiicho.com/posts/soketi-free-laravel-web-sockets-with-docker) on Serhii Cho Blog.
